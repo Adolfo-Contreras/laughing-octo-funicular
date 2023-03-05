@@ -1,1 +1,7 @@
 Here is a text file where I want to add some information about me!
+
+hello my name is adolfo angel alvarado contreras and i like to listen music and learn about software systems which is what got me into programming.
+ill talk about myself in lines because it feels more organized to me
+Hobbies: you will get that in another file :)
+goals:i will try my hardest to make it as a programmer of some kind since i find this to be a career i could learn a lot from so i think of mtech as my first step towards that
+background:i am just some 16yr old kid in a typical mexican household that is found in america 
